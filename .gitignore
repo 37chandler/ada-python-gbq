@@ -1,4 +1,7 @@
-small_trans_file.csv
+*Solution*
+.DS_Store
+*.zip
+*.csv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
